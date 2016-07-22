@@ -1,2 +1,9 @@
 # VR_room
-haha
+# Todo
+  + Photon socket
+  + Interactive movement
+  + Menu bar
+  + Character model
+# Description
+# How to execute
+# Credit
